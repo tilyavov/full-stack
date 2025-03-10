@@ -1,0 +1,92 @@
+body {
+    color: #000;
+}
+
+.header-title {
+    color: #005FA3;
+}
+
+.header-contact {
+    color: #000;
+    text-decoration: none;
+}
+
+.header-decpration-text {
+    color: #000;
+}
+
+.header-nav {
+    text-decoration: none;
+    color: #222;
+    text-transform: uppercase;
+}
+
+.desr {
+    background-color: #191E22;
+    background-image: url(/full-stack/img/first-screen-bkg.jpg);
+}
+
+.desr-link,
+.desr-title {
+    color: #FFF;
+}
+
+.desr-link {
+    text-decoration: none;
+}
+
+.service {
+    background: #EBEBEB;
+}
+
+.service-title {
+    color: #BDBDBD;
+}
+
+.service-sub-title {
+    color: #333;
+}
+
+.service-item-title {
+    background-image: url(/full-stack/img/bugalter.jpg);
+}
+
+.service-item-title2 {
+    color: #FFF;
+}
+
+.about {
+    background: #FFF;
+}
+
+.about-us{
+    color: #BDBDBD
+}
+
+.about-title-company {
+    color: #333;
+}
+
+.about-title-ivanov {
+    color: #005FA3;
+}
+
+.about-title-lorem {
+    color: #000;
+}
+
+.about-list {
+    background: #EBEBEB;
+}
+
+.about-list-title {
+    color: #000;
+}
+
+.about-link {
+    color: #00a344;
+}
+
+p {
+    font-family: 'lato';
+}
